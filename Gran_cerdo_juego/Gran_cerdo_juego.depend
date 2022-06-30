@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1656605292 source:c:\users\agnostic\desktop\codeblocks\juego granc\gran_cerdo_juego\funciones.cpp
+	<cstring>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	"Funciones.h"
+
+1656115303 c:\users\agnostic\desktop\codeblocks\juego granc\gran_cerdo_juego\funciones.h
+
+1656609771 source:c:\users\agnostic\desktop\codeblocks\juego granc\gran_cerdo_juego\main.cpp
+	<cstring>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	"Funciones.h"
+
